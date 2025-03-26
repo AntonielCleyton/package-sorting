@@ -28,7 +28,7 @@ Implement a function (or class, in our OOP version) to determine the correct sta
 ## Installation & Execution
 
 1. **Clone this repository**:
-   ```bash
+   [```bash](https://github.com/AntonielCleyton/package-sorting.git)
 
 2. **Navigate into the folder**:
    cd package-sorting
